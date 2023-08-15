@@ -1,8 +1,8 @@
 RayOpt Example Notebooks
 ========================
 
-Examples for RayOpt (https://github.com/jordens/rayopt)
+Examples for RayOpt (https://github.com/quartiq/rayopt)
 using IPython Notebook (http://ipython.org).
 
-Use http://nbviewer.ipython.org/ to get a quick view:
-http://nbviewer.ipython.org/github/jordens/rayopt-notebooks/tree/master/
+Use https://nbviewer.org/ to get a quick view:
+https://nbviewer.org/github/quartiq/rayopt-notebooks/tree/master/
